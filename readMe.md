@@ -1,6 +1,6 @@
 Joshua's Stamp Collection App
 ---
 
-#About
+#About Joshua
 
 Stuff about Joshua's Stamps here...
