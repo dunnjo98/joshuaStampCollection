@@ -1,0 +1,14 @@
+# Hide PRivate Keys
+privateKeys.md
+
+# Hide Mac System Files
+.DS_Store
+
+*.com
+*.exe
+*.zip
+*.rar
+Thumbs.db
+ehThumbs.db
+._*
+.DS_Store?
