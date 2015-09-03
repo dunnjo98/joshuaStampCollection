@@ -3,4 +3,4 @@ Joshua's Stamp Collection App
 
 #About Joshua
 
-Stuff about Joshua's Stamps here...
+New York Times raves "This is the best stamp collection of the ages!"
