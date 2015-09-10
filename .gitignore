@@ -3,12 +3,13 @@ privateKeys.md
 
 # Hide Mac System Files
 .DS_Store
+.DS_Store?
 
 *.com
 *.exe
 *.zip
 *.rar
+*.tar
 Thumbs.db
 ehThumbs.db
 ._*
-.DS_Store?
